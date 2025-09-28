@@ -19,4 +19,8 @@ cd idOS-daily-check-in
 ```
 pip install -r requirements.txt
 ```
+Or force install
+```
+pip install --ignore-installed -r requirements.txt --break-system-packages
+```
 3. Configure the script
