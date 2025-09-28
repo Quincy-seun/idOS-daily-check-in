@@ -19,8 +19,16 @@ cd idOS-daily-check-in
 ```
 pip install -r requirements.txt
 ```
-Or force install
+or force install
 ```
 pip install --ignore-installed -r requirements.txt --break-system-packages
 ```
 3. Configure the script
++ Inspect dashboard with F12 or right-click, Inspect
++ Go to Application
++ Local Storage, drop down arrow
++ https://app.idos.network
++ Click on auth_jwts and copy your access token and refresh token
++ Fill in bearer.txt and refresh.txt respectively
+
+4. Run the script
