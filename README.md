@@ -47,3 +47,7 @@ Solana:
 ```
 AbifdZMtuUWcYBnu1tJrRgDecrp9yT8bahFenP8NgADU
 ```
+BTC:
+```
+bc1qh2dvhv7vkpv99sp3gl4cg73meqrch3at9n589q
+```
