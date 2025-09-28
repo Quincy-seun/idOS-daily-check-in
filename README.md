@@ -30,5 +30,18 @@ pip install --ignore-installed -r requirements.txt --break-system-packages
 + https://app.idos.network
 + Click on auth_jwts and copy your access token and refresh token
 + Fill in bearer.txt and refresh.txt respectively
++ Fill valid proxies in proxy.txt (optional)
 
 4. Run the script
+```
+python main.py
+```
+Support me
+EVM:
+```
+0x5534B7a62A7313f78a2B526300b29342BdeE2580
+```
+Solana: 
+```
+F2Ye1aoW3xXUDDFFDDQiymiwGwH4Ld1FHLZS4K3FAsFH
+```
