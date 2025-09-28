@@ -36,7 +36,8 @@ pip install --ignore-installed -r requirements.txt --break-system-packages
 ```
 python main.py
 ```
-Support me
+# Support me
+
 EVM:
 ```
 0x5534B7a62A7313f78a2B526300b29342BdeE2580
