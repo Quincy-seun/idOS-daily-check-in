@@ -8,6 +8,7 @@ ______________________
 + Create a profile
 + Connect your wallet
 + Complete face verification
++ Complete other tasks
 
 # Installation Guide [Linux/Ubuntu]
 1. Clone the repository
