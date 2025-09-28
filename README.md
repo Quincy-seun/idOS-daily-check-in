@@ -19,3 +19,4 @@ cd idOS-daily-check-in
 ```
 pip install -r requirements.txt
 ```
+3. Configure the script
