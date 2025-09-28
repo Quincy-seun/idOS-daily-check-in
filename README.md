@@ -44,5 +44,5 @@ EVM:
 ```
 Solana: 
 ```
-F2Ye1aoW3xXUDDFFDDQiymiwGwH4Ld1FHLZS4K3FAsFH
+AbifdZMtuUWcYBnu1tJrRgDecrp9yT8bahFenP8NgADU
 ```
