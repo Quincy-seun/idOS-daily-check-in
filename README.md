@@ -4,10 +4,10 @@ ______________________
 > Easy to use
 
 # Registration
-### Visit https://app.idos.network/?ref=F0E2547E
-### Create a profile
-### Connect your wallet
-### Complete face verification
++ Visit https://app.idos.network/?ref=F0E2547E
++ Create a profile
++ Connect your wallet
++ Complete face verification
 
 # Installation Guide [Linux/Ubuntu]
 1. Clone the repository
